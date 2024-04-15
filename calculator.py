@@ -1,7 +1,7 @@
 
 from calc_functions import calculation_operation, number_is_digit
 
-print("Hello! This is a simple calculator.")
+print("Hello! This is a simple calculator. Made by Kati")
 continue_calculation = "y"
 number_test = "()"
 operator_list = ["+", "-", "*", "/"]
